@@ -23,3 +23,7 @@ You are expected to write a test that tests the following scenario.
 - Checks that all the necessary investors (funds, DAOs and angels) are present on the page
 - Clicks the `PLAY` button in the top right corner
 - Ensures that the Competition table shows 12 clubs, each with their own logo
+
+## Submission
+
+Please fork this repository and send us an email with the a link to your repository.
