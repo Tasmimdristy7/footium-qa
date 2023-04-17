@@ -1,3 +1,4 @@
+# Getting Started 
 Here is a summary of what the test does:
 * It visits the Footium website and clicks the "View Clubs on OpenSea" button.
 * It verifies that the button links to the correct URL on OpenSea.
